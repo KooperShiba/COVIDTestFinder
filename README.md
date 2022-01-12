@@ -11,7 +11,9 @@ pip3 install -r requirements.txt --user
 
 ## To Do
 ✍️ Seperate functionality into smaller functions
+
 ✍️ Get all xPath variables into a single configuration file for easy and reliable updates
+
 ✍️ Seperate each retail store into it's own file and have a runner
 ✍️ Write an easy set-up guide in GitHub
 ✍️ Start work on a Telegram bot that takes zip codes as input
