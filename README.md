@@ -3,14 +3,14 @@
 ## Descritpion
 As it stands, this project queries retail sites for information of COVID test availability in store. The following is being searched:
 
-*TARGET*
+###TARGET
 🎯 Ellume COVID-19 Rapid Antigen Home Test
 
 🎯 Access Bio Covid Rapid Test - 2ct
 
 🎯 FlowFlex Covid-19 Antigen Home Test
 
-*WALMART*
+###WALMART
 🛒 BinaxNOW COVID‐19 Antigen Self Test (2 Count)
 
 ## Dependancies
