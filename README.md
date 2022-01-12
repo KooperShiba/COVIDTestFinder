@@ -1,19 +1,17 @@
 # COVIDTestFinder
 
 ## CURRENTLY SUPPORTED TESTS
-### TARGET
-🎯 Ellume COVID-19 Rapid Antigen Home Test
+### TARGET 🎯
+- Ellume COVID-19 Rapid Antigen Home Test
 
-🎯 Access Bio Covid Rapid Test - 2ct
+- Access Bio Covid Rapid Test - 2ct
 
-🎯 FlowFlex Covid-19 Antigen Home Test
+- FlowFlex Covid-19 Antigen Home Test
 
-### WALMART
-🛒 BinaxNOW COVID‐19 Antigen Self Test (2 Count)
+### WALMART 🛒
+- BinaxNOW COVID‐19 Antigen Self Test (2 Count)
 
 
-## Little Intro
-As it stands, this project queries retail sites for information of COVID test availability in store. 
 
 
 ## Dependancies
