@@ -25,19 +25,19 @@ pip3 install -r requirements.txt --user
 ```
 
 ## To Do
-✍️ Seperate functionality into smaller functions
+✍️ Seperate functionality into smaller functions.
 
-✍️ Get all xPath variables into a single configuration file for easy and reliable updates
+✍️ Get all xPath variables into a single configuration file for easy and reliable updates.
 
-✍️ Seperate each retail store into it's own file and have a runner
+✍️ Seperate each retail store into it's own file and have a runner.
 
-✍️ Write an easy set-up guide in GitHub
+✍️ Write an easy set-up guide in GitHub.
 
-✍️ Start work on a Telegram bot that takes zip codes as input
+✍️ Start work on a Telegram bot that takes zip codes as input.
 
 ✍️ Write small guide on how xPaths were gathered.
 
-❓ Figure out how to bipass Walmart's bot protections for complete automation
+❓ Figure out how to bipass Walmart's bot protections for complete automation.
 
 ❓ Find reliable alternative from doing this:
 ```
@@ -45,8 +45,8 @@ service = Service(executable_path=ChromeDriverManager().install())
 ```
 
 ## Current Issues
-⚠️ Zip Codes is being used as a global variable when it should be passed in.
+⚠️ Zip Codes is being used as a global variable when it should be passed in as an arguement.
 
 ⚠️ Walmart brute force function fails on second attempt.
 
-⚠️ Target second page type is not accounted for
+⚠️ Target second page type is not accounted for.
