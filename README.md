@@ -1,6 +1,6 @@
 # COVIDTestFinder
 
-##SUPPORTED TESTS
+## CURRENTLY SUPPORTED TESTS
 ### TARGET
 🎯 Ellume COVID-19 Rapid Antigen Home Test
 
